@@ -1,0 +1,14 @@
+{
+    "type": "mashup",
+    "name": "qap-appnavigator",
+    "description": "Qlik Sense mashup developed using Metronic admin template.",
+    "version": "1.0.0",
+    "author": "",
+    "homepage": "",
+    "keywords": "qlik-sense, visualization, mashup",
+    "license": "https://github.com/datanomixpro/qap-appnavigator/blob/main/LICENSE",
+    "repository": "https://github.com/datanomixpro/qap-appnavigator",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
